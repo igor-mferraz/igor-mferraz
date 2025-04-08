@@ -1,4 +1,4 @@
-<h2 align="center">Meu nome é Igor, sou desenvolvedor Full Stack!</h2>
+<h2 align="center">FullStack Developer!</h2>
 
 ###
 
